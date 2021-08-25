@@ -1,0 +1,4 @@
+sudo apt install build-essential
+sudo apt-get install python3.8-dev
+apt install gfortran
+apt-install libblas-dev libatlas-base-dev liblapack-dev
